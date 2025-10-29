@@ -2,5 +2,6 @@
 "popup_id": "TEST_ID",
 "title": "Announcement",
 "message": "Thrill of the Fight 2s 1.0 release with single player campaign has now been released",
-"content_url": "https://github.com/Thomas-Safarewicz/Tester/blob/main/ThrillVertPoster.jpg"
+"content_url": "https://raw.githubusercontent.com/Thomas-Safarewicz/Tester/refs/heads/main/ThrillVertPoster.jpg"
 }
+
